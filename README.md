@@ -1,4 +1,4 @@
-# crAssphage_papers
+# crAssphage papers
 
 This is a list of papers that are related to crAssphage. Please feel free to fork this, add papers, and create a pull request to add papers that I have not included.
 
